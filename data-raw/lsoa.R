@@ -103,12 +103,12 @@ load_data_frames <- function(URL,
 # LSOA 2019 scores ----
 lsoa_2019 <- load_data_frames("https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/lowersuperoutputareamidyearpopulationestimates/mid2019sape22dt2/sape22dt2mid2019lsoasyoaestimatesunformatted.zip",
                               la_year = 2019,
-                              lsoa_year = 2019,
+                              lsoa_year = 2011,
                               est_year = 2019)
 # LSOA 2020 scores ----
 lsoa_2020 <- load_data_frames("https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/lowersuperoutputareamidyearpopulationestimates/mid2020sape23dt2/sape23dt2mid2020lsoasyoaestimatesunformatted.xlsx",
                               la_year = 2018,
-                              lsoa_year = 2020,
+                              lsoa_year = 2011,
                               est_year = 2020,
                               zip = FALSE)
 
