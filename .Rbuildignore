@@ -1,7 +1,9 @@
-^\.Rproj$
+^NHSRpopulation\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
 ^CODE_OF_CONDUCT\.md$
 ^data-raw$
 ^docs$
 ^LICENSE\.md$
+^_pkgdown\.yml$
+^pkgdown$
